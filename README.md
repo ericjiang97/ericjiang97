@@ -11,7 +11,7 @@ As a Test Engineer within the Script Automation Team (QMC, Pixel Software), I wo
 Some of my cool open sourced stuff includes
 
 - :frog: [GeckoDM](https://github.com/GeckoDM/GeckoDownloadManager)
-- 
+- :computer: [MARIE.js](https://github.com/MARIE-js/MARIE.js)
 
 <!--
 **ericjiang97/ericjiang97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
