@@ -1,3 +1,5 @@
+![banner](banner.png)
+
 ### Hi there 👋, I'm Eric
 
 _He/him_ | https://ericjiang.dev | eric@ericjiang.dev
