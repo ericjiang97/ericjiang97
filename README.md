@@ -1,4 +1,4 @@
-![banner](banner.png)
+![banner](./banner.png)
 
 ### Hi there 👋, I'm Eric
 
