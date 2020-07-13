@@ -1,10 +1,10 @@
 ### Hi there 👋, I'm Eric
 
-_He/him_ | https://ericjiang.dev
+_He/him_ | https://ericjiang.dev | eric@ericjiang.dev
 
 #### I’m currently a Test Engineer at Google.
 
-As a Test Engineer within the Script Automation Team (QMC, Pixel Software), I work on automation tools, as well as shaping better processes to enable development and both software and hardware engineering teams to build delightful, stable and secure products for everyone.
+As a Test Engineer within the Script Automation Team (QMC, Pixel Software), I work on automation tools, as well as shaping better processes to enable development on both software and hardware engineering teams to build delightful, stable and secure products for everyone.
 
 ---
 
