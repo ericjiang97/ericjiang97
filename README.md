@@ -1,4 +1,4 @@
-![banner](./banner.png)
+![banner](https://raw.githubusercontent.com/ericjiang97/ericjiang97/master/banner.png)
 
 ### Hi there 👋, I'm Eric
 
