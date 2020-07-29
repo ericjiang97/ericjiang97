@@ -2,7 +2,7 @@
 
 ### Hi there 👋, I'm Eric
 
-_He/him_ | https://ericjiang.dev | eric@ericjiang.dev
+_He/him_ | https://ericjiang.dev | [hello@ericjiang.dev](mailto:hello@ericjiang.dev)
 
 #### I’m currently a Test Engineer at Google.
 
@@ -29,3 +29,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+---
+
+**You can also follow me on my socials:**
+
+- **LinkedIn**: [ericjiang97](https://www.linkedin.com/in/ericjiang97/)
+- **Twitter**: [@ericjiang97](https://twitter.com/ericjiang97)
