@@ -24,6 +24,10 @@ Some of my cool open sourced stuff includes
 
 ---
 
+[![@ericjiang97's Holopin board](https://holopin.io/api/user/board?user=ericjiang97)](https://holopin.io/@ericjiang97)
+
+---
+
 ### Experience
 
 * Google (Apr 2020 - Present)
