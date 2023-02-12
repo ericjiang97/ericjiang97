@@ -4,7 +4,7 @@
 
 _He/him_ | https://ericjiang.dev | [hello@ericjiang.dev](mailto:hello@ericjiang.dev)
 
-#### I’m currently a Test Engineer at Google.
+#### I’m currently a Software Engineer at Google.
 
 As a Test Engineer within the Pixel Software Security team (Pixel Test Engineering, Pixel Software), I work on automation tools, as well as shaping better processes to enable development on both software and hardware engineering teams to build delightful, stable and secure products for everyone.
 
@@ -31,7 +31,8 @@ Some of my cool open sourced stuff includes
 ### Experience
 
 * Google (Apr 2020 - Present)
-  * Test Engineer (Pixel Security, Pixel Software): Jan 2021 - Present.
+  * Software Engineer (Pixel Security, Pixel Software): Feb 2023 - Present.
+  * Test Engineer, Infrastructure and Tooling (Pixel Security, Pixel Software): Jan 2021 - Feb 2023.
   * Test Engineer (Script Automation Team, Pixel Software): Apr 2020 - Dec 2020
 * Monash University (Dec 2016 - Nov 2019)
   * Cloud Engineer - Google Cloud (Custom Applications Team, Digital Group, eSolutions): Mar 2019 - Nov 2019
