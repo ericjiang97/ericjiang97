@@ -6,7 +6,7 @@ _He/him_ | https://ericjiang.dev | [hello@ericjiang.dev](mailto:hello@ericjiang.
 
 #### I’m currently a Software Engineer at Google.
 
-As a Test Engineer within the Pixel Software Security team (Pixel Test Engineering, Pixel Software), I work on automation tools, as well as shaping better processes to enable development on both software and hardware engineering teams to build delightful, stable and secure products for everyone.
+As a Software Engineer within the Pixel Software Security team (Pixel Test Engineering, Pixel Software), I work on automation tools, as well as shaping better processes to enable development on both software and hardware engineering teams to build delightful, stable and secure products for everyone.
 
 ---
 
