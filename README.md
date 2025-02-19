@@ -6,7 +6,7 @@ _He/him_ | https://ericjiang.dev | [hello@ericjiang.dev](mailto:hello@ericjiang.
 
 #### I’m currently a Software Engineer at Google.
 
-As a Software Engineer within the Apps & Reporting team (Pixel Test Engineering, Pixel Software), I currently lead Frontend Development & UX of a next-generation & modern internal test platform for testing Pixel devices.
+I'm currently a Software Engineer within the SDLC org in Android & Pixel - our team looks after Planning and Testing tooling. I, myself currently lead Frontend Development & UX of a next-generation & modern internal test platform for testing Android & Pixel devices.
 
 ---
 
