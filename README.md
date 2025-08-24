@@ -31,7 +31,8 @@ Some of my cool open sourced stuff includes
 ### Experience
 
 * Google (Apr 2020 - Present)
-  * Software Engineer III (Apps & Reporting, Pixel Test Eng): Nov 2023 - 
+  * Software Engineer III (Android & Pixel SDLC - BizTools): Jan 2025 - 
+  * Software Engineer III (Tools & Infrastructure - Security/Privacy/Stability Testing, Pixel Test Eng): Nov 2023 - Jan 2025
   * Software Engineer II (Pixel Security, Pixel Software): Feb 2023 - Oct 2023.
   * Test Engineer, Infrastructure and Tooling (Pixel Security, Pixel Software): Jan 2021 - Feb 2023.
   * Test Engineer (Script Automation Team, Pixel Software): Apr 2020 - Dec 2020
